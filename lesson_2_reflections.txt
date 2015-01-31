@@ -1,0 +1,9 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: A .git directory with git admin files were created, although no files 
+where included in the repo yet.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: A staging area stands for the files to be included in next commit.
+It allow you to hold some changes in the working directory so that it's not 
+committed.
+The repository contains committed changes pushed into the repository
